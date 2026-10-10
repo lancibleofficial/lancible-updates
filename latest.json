@@ -1,8 +1,8 @@
 {
   "android": {
-    "version": "1.2.1",
-    "url": "https://github.com/lancibleofficial/Lancible/releases/tag/mobile-v1.2.1",
-    "apk": "https://github.com/lancibleofficial/Lancible/releases/download/mobile-v1.2.1/Lancible-1.2.1.apk",
-    "size": 100582913
+    "version": "1.2.2",
+    "url": "https://github.com/lancibleofficial/Lancible/releases/tag/mobile-v1.2.2",
+    "apk": "https://github.com/lancibleofficial/Lancible/releases/download/mobile-v1.2.2/Lancible-1.2.2.apk",
+    "size": 100590981
   }
 }
